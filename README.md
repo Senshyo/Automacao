@@ -16,15 +16,15 @@ Antes de executar este projeto, certifique-se de ter instalado as seguintes depe
 
 Você pode instalar as dependências usando o `pip` com o seguinte comando:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 ## Uso
 Execute o script com o seguinte comando:
 
-bash
-python script.py
-
+```bash
+python main.py
+```
 ## Contribuição
 Este é um projeto de estudo pessoal, mas contribuições e sugestões são bem-vindas.
 

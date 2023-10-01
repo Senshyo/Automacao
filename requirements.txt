@@ -1,0 +1,5 @@
+# requirements.txt
+
+# Bibliotecas de automação e manipulação de dados
+selenium
+pandas
